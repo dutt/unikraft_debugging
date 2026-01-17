@@ -2,7 +2,7 @@
 
 ## Problem
 
-`time.time()` returns ~946598400 (January 1, 2000) instead of current time.
+`time.time()` returns 946598400 (December 31st, 1999) instead of current time.
 
 ## Expected Output
 ```
